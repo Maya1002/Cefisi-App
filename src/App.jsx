@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Login from './login.jsx';
 import Inscription from './inscription.jsx';
-import CandidatureForm from './CandidatureForm.jsx';
+import CandidatureForm from './candidatureForm.jsx';
 import MesCandidatures from './MesCandidatures.jsx';
 import AdminDashboard from './adminDashboard.jsx';
 import CreateAdmin from './CreateAdmin.jsx';
